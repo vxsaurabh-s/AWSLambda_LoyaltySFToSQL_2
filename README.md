@@ -1,0 +1,2 @@
+# AWSLambda_LoyaltySFToSQL_2
+AWSLambda_LoyaltySFToSQL
